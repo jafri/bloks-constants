@@ -1,0 +1,15 @@
+{
+  "name": "@bloks/constants",
+  "version": "0.0.4",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "gitHead": "8884412d6297389123b1b772b2893e7d03cd3a2b",
+  "publishConfig": {
+    "access": "public"
+  }
+}
