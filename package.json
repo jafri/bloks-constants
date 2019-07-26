@@ -1,6 +1,6 @@
 {
   "name": "@bloks/constants",
-  "version": "0.0.5",
+  "version": "0.1.0",
   "description": "",
   "publishConfig": {
     "access": "public"
@@ -11,5 +11,5 @@
   },
   "author": "",
   "license": "MIT",
-  "gitHead": "8884412d6297389123b1b772b2893e7d03cd3a2b"
+  "gitHead": "5310d1a8bbd5bcbfc753c0a01a6b88bf0d0f08fa"
 }
