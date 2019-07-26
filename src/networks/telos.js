@@ -5,10 +5,12 @@ const DEFAULT_ENDPOINTS = [
 ]
 
 const ACTIONS_ENDPOINTS = [
+  'https://telos-testnet.eosphere.io',
   'https://api.eos.miami'
 ]
 
 const TRANSACTIONS_ENDPOINTS = [
+  'https://telos-testnet.eosphere.io',
   'https://api.eos.miami'
 ]
 
